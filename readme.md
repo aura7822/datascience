@@ -52,7 +52,7 @@ Open-source & Community-driven – widely supported with tons of resources.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <img src="download.jpeg" alt="Image 1" width="45%">
-  <img src="images.jpeg" alt="Image 2" width="45%">
+  <img src="" alt="Image 2" width="45%">
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
