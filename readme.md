@@ -35,23 +35,23 @@ Simple & Readable – great for beginners and professionals alike.
 
 ### Rich Ecosystem – libraries such as:
 
-numpy → numerical computing
+❖ numpy → numerical computing
 
-pandas → data manipulation
+❖ pandas → data manipulation
 
-matplotlib & seaborn → visualization
+❖ matplotlib & seaborn → visualization
 
-scikit-learn → machine learning
+❖ scikit-learn → machine learning
 
-seaborn - aesthetic visualisation
+❖ seaborn - aesthetic visualisation
 
-matplotlib - basic plotting
+❖ matplotlib - basic plotting
 
 Open-source & Community-driven – widely supported with tons of resources.
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <img src="pyhton.jpeg" alt="Image 1" width="45%">
+  <img src="python.jpeg" alt="Image 1" width="45%">
   <img src="images.jpeg" alt="Image 2" width="45%">
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
