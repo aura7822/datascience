@@ -1,9 +1,13 @@
-📊 Data Science with Python – School Assignments & CAT Tasks
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=50&color=ff007f&center=true&width=1200&height=100&lines=DATA%20SCIENCE%20WITH%20PYTHON;BASIC%20DESCRIPTION" alt="Typing SVG" />
+</a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  📌 Orientation
 
 This repository contains all my school assignments and CAT (Continuous Assessment Test) tasks related to Data Science and Python programming. It is designed as a learning hub where I apply theoretical concepts to practical problems using Python and its data science ecosystem.
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 🧠 What is Data Science?
 
@@ -18,14 +22,16 @@ Exploratory Data Analysis (EDA) – using visualization and statistics to unders
 Model Building – applying machine learning techniques to predict or classify outcomes.
 
 Communication – presenting findings clearly through reports, visualizations, and dashboards.
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 🐍 Why Python for Data Science?
 
 Python is the most popular programming language for data science because it is:
 
 Simple & Readable – great for beginners and professionals alike.
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### Rich Ecosystem – libraries such as:
 
@@ -42,7 +48,14 @@ seaborn - aesthetic visualisation
 matplotlib - basic plotting
 
 Open-source & Community-driven – widely supported with tons of resources.
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <img src="image1.png" alt="Image 1" width="45%">
+  <img src="image2.png" alt="Image 2" width="45%">
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 
 ### 📂 Repository Structure :
 
