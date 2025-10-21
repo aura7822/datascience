@@ -4,12 +4,13 @@
 </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- 📌 Orientation
+
+ ### 📌 Orientation :
 
 This repository contains all my school assignments and CAT (Continuous Assessment Test) tasks related to Data Science and Python programming. It is designed as a learning hub where I apply theoretical concepts to practical problems using Python and its data science ecosystem.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 🧠 What is Data Science?
+### 🧠 What is Data Science ?
 
 Data Science is an interdisciplinary field that uses statistics, mathematics, and computer science to extract meaningful insights from data. It involves:
 
@@ -25,11 +26,32 @@ Communication – presenting findings clearly through reports, visualizations, a
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 🐍 Why Python for Data Science?
+### 🐍 Why Python for Data Science ?
 
 Python is the most popular programming language for data science because it is:
 
 Simple & Readable – great for beginners and professionals alike.
+
+---
+Birth of python language :
+
+Was developed in December 1989 by dutch programmer Guido van Rossum as version 0.9.0
+◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### Preriquisities :
+
+🢖 Computer programming language
+
+🢖 Jupyter Notebook or VS Code for experiments and visualization
+
+🢖 Anaconda (optional) for easy package management
+
+🢖 Git & GitHub for version control
+
+🢖 Linux® terminal knowledge (or windows cmd )
+
+🢖 Database knowledge (mySQL, POSTGREsql...)
+
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -47,6 +69,8 @@ Simple & Readable – great for beginners and professionals alike.
 
 ❖ matplotlib - basic plotting
 
+  ### REMEMBER TO ST✫R THE REPO !
+  
 Open-source & Community-driven – widely supported with tons of resources.
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -55,6 +79,7 @@ Open-source & Community-driven – widely supported with tons of resources.
   <img src="images.jpeg" alt="Image 2" width="45%">
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 
 ### 📂 Repository Structure :
