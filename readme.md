@@ -164,7 +164,8 @@ Blue = positive correlation
 Red = negative correlation
 
 ---
-🢧 Data wrangling↴
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+🢧 Data wrangling ↴
 
 🢖 Creation of datasets :
 ```
