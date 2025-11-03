@@ -178,8 +178,9 @@ FEEDETAILS = {
 
 🢖 Filtering of data 
 
-🢧 Supervised learning desicion tree [ ginii index and info gain ]
 🢖 Printing of top element only and vice versa
 
-🢖Grouping and merging operations
+🢖Grouping and merging operationst
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     
+🢧 Supervised learning desicion ree [ ginii index and info gain ]
