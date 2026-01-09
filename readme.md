@@ -23,6 +23,8 @@ Exploratory Data Analysis (EDA) – using visualization and statistics to unders
 Model Building – applying machine learning techniques to predict or classify outcomes.
 
 Communication – presenting findings clearly through reports, visualizations, and dashboards.
+
+Generally, datascience asserts dominance in everything dealing with data
 🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏🩏
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
