@@ -7,7 +7,7 @@
 
  ### 📌 Orientation :
 
-This repository contains all my school assignments and CAT (Continuous Assessment Test) tasks related to Data Science and Python programming. It is designed as a learning hub where I apply theoretical concepts to practical problems using Python and its data science ecosystem.
+This repository contains all my school assignments and CAT (Continuous Assessment Test) tasks related to Data Science and Python programming. It is designed as a learning hub where I apply theoretical concepts to practical problems using Python and its data science ecosystem, providing kowledge ubiquity
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 🧠 What is Data Science ?
